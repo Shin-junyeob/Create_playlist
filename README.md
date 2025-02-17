@@ -81,6 +81,6 @@ user@:~$ python Create_library
 ```
 
 ## 결과
-![alt text](results_image_1.png)
+![result_1](result_1.png)
 
-![alt text](results_image_2.png)
+![result_2](result_2.png)
